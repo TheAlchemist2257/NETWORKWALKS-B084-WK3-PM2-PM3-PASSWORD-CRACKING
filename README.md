@@ -61,7 +61,7 @@ Activities:
 - Extracted the PDF password hash.
 - saved the hash value in as a hash1.txt file.
 
-![](8.png)
+![](1.png)
 
 ---
 
@@ -76,6 +76,8 @@ Activities:
 - Examined the results.
 
 ![](2.png)
+
+![](3.png)
 
 
 ---
