@@ -77,6 +77,8 @@ Activities:
 
 ![](2.png)
 
+![](9.png)
+
 ![](3.png)
 
 
@@ -93,7 +95,7 @@ Activities:
 - Examined and copied the output.
 
 
-![](2a.png)
+![](4.png)
 
 ---
 
@@ -107,7 +109,11 @@ Activities:
 - Analysed the results.
 - Verified the recovered password against the test PDF.
 
-![](10.png)
+![](5.png)
+
+![](9.png)
+
+![](6.png)
 
 
 
